@@ -26,3 +26,5 @@ Get-NetAdapter
 # Get-NetFirewallProfile | Format-Table Name, Enabled (To get firewall status)
 Get-NetFirewallProfile | Format-Table Name, Enabled
 
+# Get-Help (To find more commands)
+Get-Help
