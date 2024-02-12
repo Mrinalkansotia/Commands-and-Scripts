@@ -161,7 +161,7 @@ sudo apt-get update
 # chmod 754 file_name            -->  Change permission File_name 
 # chmod U=rwx,  G=rx-,    O=-r- file_name 
 
-# chmod 777 Sathish  => Set full permission ( File / Directory )
+# chmod 777 Mrinal  => Set full permission ( File / Directory )
 
 # IX — File / DIR CHANGE PERMISSION_ COMMAND
 
