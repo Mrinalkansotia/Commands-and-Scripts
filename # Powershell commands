@@ -1,0 +1,28 @@
+# Powershell commands
+ 
+# Get-EventLog -List (For listing the events)
+Get-EventLog -List
+
+# Get-ComputerInfo (For Getting pc info)
+Get-ComputerInfo
+
+# Get-LocalUser (To get account info)
+Get-LocalUser
+
+# Set-NetFirewallProfile -Enabled False (to disable firewall)
+Set-NetFirewallProfile -Enabled False 
+
+# Set-NetFirewallProfile -Enabled True  (##To enable firewall)
+Set-NetFirewallProfile -Enabled True  
+
+# Get-NetIPAddress (To get IP address of all network interface)
+Get-NetIPAddress
+
+# GetMac  (To get MAC address )
+# Get-NetAdapter
+GetMac
+Get-NetAdapter
+
+# Get-NetFirewallProfile | Format-Table Name, Enabled (To get firewall status)
+Get-NetFirewallProfile | Format-Table Name, Enabled
+
